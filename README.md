@@ -32,7 +32,8 @@
        문제 8 - [통증](https://level.goorm.io/exam/195690/통증/quiz/1)
 - [ ] **DAY 9** - 2023.08.24.목  
        문제 9 - [폭탄 구현하기 (2)](https://level.goorm.io/exam/195691/폭탄-구현하기-2/quiz/1)
-- [ ] **DAY 10** - 2023.08.25.금
+- [ ] **DAY 10** - 2023.08.25.금  
+       문제 10 - [GameJam](https://level.goorm.io/exam/195692/gamejam/quiz/1)
 
 ## WEEK 3
 
