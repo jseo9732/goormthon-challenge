@@ -1,6 +1,6 @@
 // 문제 12. 발전기
 
-DFS를 활용한 풀이 - 4개 런타임 에러 남
+// DFS를 활용한 풀이 - 4개 런타임 에러 남
 const readline = require('readline');
 let rl = readline.createInterface({
   input: process.stdin,
