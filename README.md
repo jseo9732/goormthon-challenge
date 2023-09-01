@@ -47,7 +47,8 @@
        문제 13 - [발전기 (2)](https://level.goorm.io/exam/195695/발전기-2/quiz/1)
 - [x] **DAY 14** - 2023.08.31.목  
        문제 14 - [작은 노드](https://level.goorm.io/exam/195696/작은-노드/quiz/1)
-- [ ] **DAY 15** - 2023.09.01.금
+- [x] **DAY 15** - 2023.09.01.금  
+       문제 15 - [과일 구매](https://level.goorm.io/exam/195697/과일-구매/quiz/1)
 
 ## WEEK 4
 
